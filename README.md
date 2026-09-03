@@ -1,5 +1,5 @@
 # hr-attrition-analysis
-# HR Employee Attrition Analysis
+
 
 Interactive Power BI dashboard analyzing why employees leave, using the IBM HR Analytics Employee Attrition dataset (via Kaggle). Category: **HR / Workforce Analytics**.
 
