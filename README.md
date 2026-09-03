@@ -75,15 +75,15 @@ The findings inform decisions on: which roles need urgent retention plans, wheth
 
 **Overview** — company-wide KPIs (headcount, attrition rate, tenure, salary) plus attrition by department and age group.
 
-![Overview Dashboard](screenshots/01-overview.png)
+![Overview Dashboard](Screenshots/01-overview.png)
 
 **Attrition Analysis** — attrition rate broken down by job role, gender, business travel, and marital status.
 
-![Attrition Analysis](screenshots/02-attrition-analysis.png)
+![Attrition Analysis](Screenshots/02-attrition-analysis.png)
 
 **Compensation Analysis** — average salary by job role, job level, education level, and department.
 
-![Compensation Analysis](screenshots/03-compensation-analysis.png)
+![Compensation Analysis](Screenshots/03-compensation-analysis.png)
 
 ---
 
